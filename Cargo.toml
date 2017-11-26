@@ -1,0 +1,6 @@
+[package]
+name = "rust_simple_http_server"
+version = "0.1.0"
+authors = ["mitoma <mutetheradio@gmail.com>"]
+
+[dependencies]
